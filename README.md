@@ -27,16 +27,14 @@ You need to install [Go](https://golang.org/dl/) to run these examples, (Mostly 
 -   [Gophercon Slides and videos](https://github.com/gophercon)
 -   [Go-best-practices-2016](https://peter.bourgon.org/go-best-practices-2016/#repository-structure)
 -   http://gopherdata.io/
--   https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff0
-    91
--   https://goinggo.io/5-not-10-mistakes-i-made-when-first-learning-go-language-
-    576d17906e9a
+-   https://medium.com/@benbjohnson/structuring-applications-in-go-3b04be4ff091
+-   https://goinggo.io/5-not-10-mistakes-i-made-when-first-learning-go-language-576d17906e9a
 -   https://hackernoon.com/the-beauty-of-go-98057e3f0a7d
 
 ### Youtube:
 
--   Simplicity is Complicated - Rob Pike
--   Just for Func - Francesc Campoy
+-   [Simplicity is Complicated - Rob Pike](https://www.youtube.com/watch?v=rFejpH_tAHM)
+-   [Just for Func - Francesc Campoy](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 
 ### Slack
 
