@@ -1,4 +1,4 @@
-# DevFest KTM 2017
+# GopherMeetup KTM 2019
 ## A brief talk on Go-programming language.
 
 Please, go thorough the list of [examples](https://github.com/aarjan/go-talk/tree/master/examples)
@@ -36,8 +36,17 @@ You need to install [Go](https://golang.org/dl/) to run these examples, (Mostly 
 -   [Simplicity is Complicated - Rob Pike](https://www.youtube.com/watch?v=rFejpH_tAHM)
 -   [Just for Func - Francesc Campoy](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 
-### Slack
+### Community
 
 -   https://gophers.slack.com - Find many channels like data-science, jobs, nepal
     etc.
+-   [Golang Bridge](https://golangbridge.com)
+-   [Golang Nuts](https://groups.google.com/forum/#!forum/golang-nuts)
+-   [Golang News](https://golangnews.com/)
+-   [Reddit](https://www.reddit.com/r/golang/)
+-   [Twitter](https://twitter.com/golang)
+-   [Github](https://twitter.com/golang)
 
+### Newsletters
+-   [Golang Weekly](https://golangweekly.com)
+-   [Golang Ninjas](https://www.getrevue.co/profile/golang-jexia)
