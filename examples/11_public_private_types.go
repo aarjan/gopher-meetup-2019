@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	myLogger "github.com/aarjan/devfest-2017/examples/log"
+	myLogger "github.com/aarjan/gopher-meetup-2019/examples/log"
 )
 
 func main() {
